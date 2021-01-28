@@ -3,7 +3,7 @@
 
 This is my personal summary of the course. This course covers deep learning extensively and I would higly recommend it to anybody wanting to break into Machine Learning, Deep Learning and AI.
 
- ## Course 1: Neural Networks and Deep Learning
+ ## Course 1: [Neural Networks and Deep Learning](https://github.com/cisco-girl/Deep_Learning_Specialization_Coursera/tree/main/1%20-%20Neural%20Networks%20and%20Deep%20Learning)
  
 Week 1 - Introduction to Deep Learning
 
