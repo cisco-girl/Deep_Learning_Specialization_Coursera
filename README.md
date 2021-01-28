@@ -5,13 +5,13 @@ This is my personal summary of the course. This course covers deep learning exte
 
  ## Course 1: [Neural Networks and Deep Learning](https://github.com/cisco-girl/Deep_Learning_Specialization_Coursera/tree/main/1%20-%20Neural%20Networks%20and%20Deep%20Learning)
  
-Week 1 - Introduction to Deep Learning
+Week 1 - [Introduction to Deep Learning](https://github.com/cisco-girl/Deep_Learning_Specialization_Coursera/tree/main/1%20-%20Neural%20Networks%20and%20Deep%20Learning/week%201)
 
-Week 2 - Logistic Regression as a Neural Network, Python and vectorization
+Week 2 - [Logistic Regression as a Neural Network, Python and vectorization](https://github.com/cisco-girl/Deep_Learning_Specialization_Coursera/tree/main/1%20-%20Neural%20Networks%20and%20Deep%20Learning/week%202)
 
-Week 3 - Shallow Neural Network
+Week 3 - [Shallow Neural Network](https://github.com/cisco-girl/Deep_Learning_Specialization_Coursera/tree/main/1%20-%20Neural%20Networks%20and%20Deep%20Learning/week%203)
 
-Week 4 - Deep Neural Network
+Week 4 - [Deep Neural Network](https://github.com/cisco-girl/Deep_Learning_Specialization_Coursera/tree/main/1%20-%20Neural%20Networks%20and%20Deep%20Learning/week%204)
 
 ## Course 2: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 
