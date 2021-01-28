@@ -6,6 +6,7 @@ This is my personal summary of the course. This course covers deep learning exte
  ## Course 1. Neural Networks and Deep Learning
  
 Week1 - Introduction to Deep Learning
+
 Week2 - Logistic Regression as a Neural Network, Python and vectorization
 Week3 - Shallow Neural Network
 Week4 - Deep Neural Network
