@@ -3,40 +3,48 @@
 
 This is my personal summary of the course. This course covers deep learning extensively and I would higly recommend it to anybody wanting to break into Machine Learning, Deep Learning and AI.
 
- ## Course 1. Neural Networks and Deep Learning
+ ## Course 1: Neural Networks and Deep Learning
  
-Week1 - Introduction to Deep Learning
+Week 1 - Introduction to Deep Learning
 
-Week2 - Logistic Regression as a Neural Network, Python and vectorization
+Week 2 - Logistic Regression as a Neural Network, Python and vectorization
 
-Week3 - Shallow Neural Network
+Week 3 - Shallow Neural Network
 
-Week4 - Deep Neural Network
+Week 4 - Deep Neural Network
 
-## Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+## Course 2: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 
-Week1 
-Week2 
-Week3 
+Week 1 
+
+Week 2 
+
+Week 3 
 
 
-## Course 3. Structuring Machine Learning Projects
+## Course 3: Structuring Machine Learning Projects
 
-Week1 
-Week2
+Week 1 
+
+Week 2
          
          
- ## Course 4. Convolutional Neural Networks
+ ## Course 4: Convolutional Neural Networks
  
- Week1 
- Week2 
- Week3 
- Week4 
+ Week 1 
+ 
+ Week 2 
+ 
+ Week 3 
+ 
+ Week 4 
  
  
- ## Course 5. Sequence Models
+ ## Course 5: Sequence Models
  
- Week1 
- Week2 
- Week3 
+ Week 1 
+ 
+ Week 2 
+ 
+ Week 3 
  
