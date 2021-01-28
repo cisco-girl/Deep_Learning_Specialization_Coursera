@@ -1,5 +1,5 @@
-# Deep Learning Specialization on Coursera
-### [The famous Coursera deep learning specialization course taught by Andrew Ng and offered by deeplearning.ai.](https://www.coursera.org/specializations/deep-learning)
+# [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera
+### The famous Coursera deep learning specialization course taught by Andrew Ng and offered by [deeplearning.ai](https://www.deeplearning.ai/).
 
 This is my personal summary of the course. This course covers deep learning extensively and I would higly recommend it to anybody wanting to break into Machine Learning, Deep Learning and AI.
 
